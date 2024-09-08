@@ -1,2 +1,2 @@
 class Student:
-    print("Hi")
+    print('I am alive')
